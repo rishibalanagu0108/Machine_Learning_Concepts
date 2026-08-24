@@ -1,0 +1,21 @@
+# Core numerical and data-analysis stack
+numpy
+pandas
+scipy
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# Machine learning exercises
+scikit-learn
+
+# Excel workbook support used by the exercises
+openpyxl
+xlrd
+
+# Jupyter notebook environment
+jupyter
+jupyterlab
+notebook
+ipykernel
